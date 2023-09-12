@@ -51,4 +51,10 @@ dependencies {
 
     //coil
     implementation("io.coil-kt:coil:1.4.0")
+
+    //zxing
+    implementation("com.journeyapps:zxing-android-embedded:4.3.0")
+
+    //okhttp
+    implementation("com.squareup.okhttp3:okhttp:4.9.3")
 }
